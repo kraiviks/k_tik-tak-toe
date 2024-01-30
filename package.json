@@ -1,9 +1,9 @@
 {
-  "name": "tik-tak-toe",
+  "name": "k_tik-tak-toe",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://kraiviks.github.io/tik-tak-toe/",
+  "homepage": "https://tik-tak-toe-kraiviks.vercel.app/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
