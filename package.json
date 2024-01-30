@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://tik-tak-toe-kraiviks.vercel.app/",
+  "homepage": "https://k-tik-tak-toe.vercel.app/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
